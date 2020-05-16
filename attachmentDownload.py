@@ -16,7 +16,6 @@ def auth(username,password,imap_url):
 
 
 
-
 '''
 Function to extract email body from a message object
 Returns the raw data of the body
