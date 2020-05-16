@@ -17,9 +17,6 @@ def auth(username,password,imap_url):
 
 
 
-
-
-
 '''
 Function to extract email body from a message object
 Returns the raw data of the body
@@ -59,8 +56,6 @@ def search(key, value, imap_object):
 
 
 
-
-
 '''
 Function to extract corresponding emails, given a byte string with a list of mail numbers
 Returns a list of messages in raw parsed form (message object).
@@ -83,8 +78,6 @@ def get_emails(results_list, imap_object):
 
     #Return the list
     return messages
-
-
 
 
 
