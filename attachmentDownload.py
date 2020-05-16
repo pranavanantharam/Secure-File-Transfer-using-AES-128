@@ -124,16 +124,3 @@ def get_attachment(message, attachment_dir, attachmentName):
             with open(filePath, 'wb') as file:
                 file.write(part.get_payload(decode=True))
 
-
-    
-
-
-
-
-
-
-
-
-
-
-
