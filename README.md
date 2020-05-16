@@ -2,7 +2,7 @@
 Scripts which enable file transfer between 2 devices over a LAN using AES-128 algorithm to encrypt the contents of the file.
 
 
-## Requirements
+## Prerequisites
 
 - Gmail accounts ( ' allow less secure apps ' option must be enabled )
 - Python 3.7+
