@@ -5,7 +5,7 @@ A script which enables file transfer between 2 devices over a LAN using AES-128 
 
 ## Requirements
 
-- Gmail accounts ('allow less secure apps' option must be enabled)
+- Gmail accounts ( ' allow less secure apps ' option must be enabled )
 - Python 3.7+
 
 ## Instructions
