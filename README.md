@@ -1,5 +1,6 @@
 # Secure File Transfer using AES - 128 Encryption
 Scripts which enable file transfer between 2 devices over a LAN using AES-128 algorithm to encrypt the contents of the file.
+
 File is transmitted via TCP sockets, while the symmetric key is transmitted via Gmail from sender to receiver.
 
 
